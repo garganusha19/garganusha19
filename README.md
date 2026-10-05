@@ -39,12 +39,12 @@
 
 ## 🛠️ Tech Stack
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
+![Java](https://skillicons.dev/icons?i=java)&nbsp;&nbsp;
+![Python](https://skillicons.dev/icons?i=python)&nbsp;&nbsp;
+![C](https://skillicons.dev/icons?i=c)&nbsp;&nbsp;
+![C++](https://skillicons.dev/icons?i=cpp)&nbsp;&nbsp;
+![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
+![React](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ---
 
