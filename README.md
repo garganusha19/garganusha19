@@ -8,21 +8,28 @@
 
 {
   "name": "Anusha Garg",
+  
   "role": "CSE Student",
+  
   "focus": [
+  
     "Full-Stack Development",
     "Java",
     "DSA"
   ],
+  
   "learning": [
+  
     "Spring Boot",
     "REST APIs",
     "MySQL"
   ],
   "building": [
+  
     "Web Applications",
     "Backend Systems"
   ],
+  
   "goal": "Build. Learn. Ship."
 }
 
