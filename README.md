@@ -16,18 +16,22 @@
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-
-![Java](https://skillicons.dev/icons?i=java)&nbsp;&nbsp;
-![Python](https://skillicons.dev/icons?i=python)&nbsp;&nbsp;
-![C](https://skillicons.dev/icons?i=c)&nbsp;&nbsp;
-![C++](https://skillicons.dev/icons?i=cpp)&nbsp;&nbsp;
-![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
-![React](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
+  <img src="https://skillicons.dev/icons?i=java" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 ---
 
