@@ -33,7 +33,7 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
----
+
 
 ## Projects
 
