@@ -1,4 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Anusha Garg
+
+### CSE Student | Full-Stack Developer | AI Explorer
+
+---
+
+## 🌱 About Me
+
+- 💻 Exploring Full-Stack Development & AI
+- 🧠 Building my DSA and problem-solving skills
+- 🚀 Learning, building, and improving every day
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🔐 The Vault
+Java & Spring Boot backend project
+
+### 🏥 MediQueue
+Smart patient queue management system
+
+### 🧠 Zen-Memory
+Python memory matching game
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a19shagarg&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a19shagarg&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=a19shagarg&theme=tokyonight)
+
+---
+
+
+### Build • Learn • Improve • Repeat 🚀
 
 <!--
 **a19shagarg/a19shagarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
