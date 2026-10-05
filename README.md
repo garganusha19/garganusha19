@@ -13,8 +13,6 @@
 🧠 Currently improving my DSA and problem-solving skills.
 
 🚀 Building projects, learning new technologies, and growing every day.
-  
-}
 
 ---
 
