@@ -6,32 +6,13 @@
 
 ## 🌱 About Me
 
-{
-  "name": "Anusha Garg",
-  
-  "role": "CSE Student",
-  
-  "focus": [
-  
-    "Full-Stack Development",
-    "Java",
-    "DSA"
-  ],
-  
-  "learning": [
-  
-    "Spring Boot",
-    "REST APIs",
-    "MySQL"
-  ],
-  
-  "building": [
-  
-    "Web Applications",
-    "Backend Systems"
-  ],
-  
-  "goal": "Build. Learn. Ship."
+🎓 CSE Student passionate about technology and software development.
+
+💻 Interested in Java, C, C++, JavaScript & Full-Stack Development.
+
+🧠 Currently improving my DSA and problem-solving skills.
+
+🚀 Building projects, learning new technologies, and growing every day.
   
 }
 
