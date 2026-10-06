@@ -32,6 +32,10 @@ Building projects, learning new technologies, and growing every day.
   <img src="https://skillicons.dev/icons?i=react" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ---
